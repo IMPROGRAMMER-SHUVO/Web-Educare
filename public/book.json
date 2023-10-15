@@ -1,0 +1,109 @@
+[
+    { "id":1,
+      "bookname": "Physics",
+      "instructor": {
+        "name": "Dr. John Smith",
+        "picture": "https://api.research.unsw.edu.au/sites/default/files/images/profile/smith.jpg",
+        "education": "Ph.D. in Physics",
+        "expertise": "Theoretical Physics"
+      },
+      "image": "https://m.media-amazon.com/images/I/712eCD26LgL._AC_UY218_.jpg",
+      "index": [
+        "Chapter 1: Introduction to Physics",
+        "Chapter 2: Mechanics",
+        "Chapter 3: Electricity and Magnetism",
+        "Chapter 4: Waves and Optics",
+        "Chapter 5: Thermodynamics",
+        "Chapter 6: Modern Physics",
+        "Chapter 7: Relativity",
+        "Chapter 8: Quantum Mechanics",
+        "Chapter 9: Nuclear Physics",
+        "Chapter 10: Astrophysics"
+      ],
+      "preview": "Explore the fundamental principles of physics, from classical mechanics to cutting-edge topics like quantum mechanics and astrophysics. This book is a comprehensive guide to understanding the natural world around us.",
+      "benefit": "Gain a deeper understanding of the physical laws that govern the universe and how they impact our daily lives. This knowledge can open up exciting career opportunities in fields such as engineering, astronomy, and research.",
+      "rating": 4.5,
+      "logo": "https://example.com/4.5stars.png"
+    },
+    {  "id":2,
+      "bookname": "Chemistry",
+      "instructor": {
+        "name": "Prof. Emily Johnson",
+        "picture": "data:image/jpeg;base64,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",
+        "education": "Ph.D. in Chemistry",
+        "expertise": "Organic Chemistry"
+      },
+      "image": "https://m.media-amazon.com/images/I/81Jw1+pcP1L._SL1500_.jpg",
+      "index": [
+        "Chapter 1: Introduction to Chemistry",
+        "Chapter 2: Chemical Reactions",
+        "Chapter 3: The Periodic Table",
+        "Chapter 4: Chemical Bonding",
+        "Chapter 5: Acids and Bases",
+        "Chapter 6: Organic Chemistry",
+        "Chapter 7: Inorganic Chemistry",
+        "Chapter 8: Physical Chemistry",
+        "Chapter 9: Analytical Chemistry",
+        "Chapter 10: Biochemistry"
+      ],
+      "preview": "Dive into the fascinating world of chemistry, where you'll learn about the properties of matter, chemical reactions, and the structure of atoms and molecules. This book is your gateway to understanding the composition of the world.",
+      "benefit": "Acquire essential knowledge about the building blocks of matter and chemical processes. Understanding chemistry can lead to careers in research, pharmaceuticals, environmental science, and more.",
+      "rating": 4.7,
+      "logo": "https://example.com/4.7stars.png"
+    },
+    { "id":3,
+      "bookname": "Mathematics",
+      "instructor": {
+        "name": "Prof. David Brown",
+        "picture": "data:image/jpeg;base64,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",
+        "education": "Ph.D. in Mathematics",
+        "expertise": "Number Theory"
+      },
+      "image": "https://m.media-amazon.com/images/I/41U5pXnVEFL._SY342_.jpg",
+      "index": [
+        "Chapter 1: Introduction to Mathematics",
+        "Chapter 2: Algebra",
+        "Chapter 3: Calculus",
+        "Chapter 4: Geometry",
+        "Chapter 5: Statistics",
+        "Chapter 6: Probability Theory",
+        "Chapter 7: Linear Algebra",
+        "Chapter 8: Differential Equations",
+        "Chapter 9: Number Theory",
+        "Chapter 10: Mathematical Logic"
+      ],
+      "preview": "Unlock the power of mathematics and its applications in various fields. From algebra to calculus, this book covers essential mathematical concepts that are the foundation of scientific and engineering disciplines.",
+      "benefit": "Develop strong problem-solving skills and a deep understanding of mathematical concepts. Mathematics is a universal language used in various professions, from engineering to finance and data science.",
+      "rating": 4.8,
+      "logo": "https://example.com/4.8stars.png"
+    },
+    { "id":4,
+      "bookname": "Biology",
+      "instructor": {
+        "name": "Dr. Sarah Davis",
+        "picture": "https://media.licdn.com/dms/image/D5603AQGpsiz_-Ln_uA/profile-displayphoto-shrink_800_800/0/1671059104633?e=1703116800&v=beta&t=0usMRcHbx7AqfmDLPs-ovHXkpA_SRSu7DYrXsH-uJaM",
+        "education": "Ph.D. in Biology",
+        "expertise": "Microbiology"
+      },
+      "image": "https://m.media-amazon.com/images/I/61+OZqG7myL._SY466_.jpg",
+      "index": [
+        "Chapter 1: Introduction to Biology",
+        "Chapter 2: Cell Biology",
+        "Chapter 3: Genetics",
+        "Chapter 4: Evolution",
+        "Chapter 5: Ecology",
+        "Chapter 6: Human Anatomy and Physiology",
+        "Chapter 7: Microbiology",
+        "Chapter 8: Immunology",
+        "Chapter 9: Plant Biology",
+        "Chapter 10: Virology"
+      ],
+      "preview": "Explore the wonders of the living world through the lens of biology. From the smallest cells to complex ecosystems, this book delves into the intricacies of life and the processes that sustain it.",
+      "benefit": "Gain insights into the diversity of life forms and the mechanisms that drive biological processes. This knowledge is valuable for careers in healthcare, research, environmental conservation, and more.",
+      "rating": 4.6,
+      "logo": "https://example.com/4.6stars.png"
+    }
+  ]
+
+
+
